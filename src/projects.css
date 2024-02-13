@@ -1,0 +1,38 @@
+.projects__container {
+    width: 90%;
+    margin: auto;
+}
+
+.projects__title {
+    font-size: 32px;
+    font-weight: 700;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.projects__links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    gap: 50px;
+}
+.projects__links li {
+    background-color: #333333;
+    padding: 12px 15px 30px 15px;
+}
+
+.projects__links img {
+    width: 250px;
+    height: 150px;
+    margin-bottom: 18px;
+}
+
+.projects__links h4 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: #171717;
+    font-family: DM Sans ;
+    color: #fff;
+}
+
+.navbar__container {
+    width: 90%;
+    margin: auto;
+    padding: 20px 5px;
+    
+    
+}
+
+.navbar__links {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav__menu {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.navbar__links li a {
+    text-decoration: none !important;
+    color: antiquewhite;
+    font-weight: 700;
+    font-family: "DM Sans";
+    text-transform: uppercase;
+}

@@ -1,0 +1,42 @@
+.skills__container {
+    width: 90%;
+    margin: 150px auto ;
+}
+
+
+.skills__title {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+.skills__list {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+}
+
+.skills__list li {
+    background-color: #333333;
+    width: 100px;
+    padding: 15px 15px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+footer {
+    background-color: #212121;
+    height: 60px;
+}
+
+footer p {
+    text-align: center;
+    padding: 25px 0 0 0; 
+    font-weight: 700;
+}
+
+.name {
+    color: #00DF5E;
+}
